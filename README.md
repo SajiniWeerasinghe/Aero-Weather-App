@@ -69,7 +69,7 @@ Aero Weather App is a simple weather forecasting web application that allows use
 
 ## Screenshots
 
-![Screenshot of Aero Weather App](images/screenshot.png)
+![Screenshot of Aero Weather App](images\Screenshot 1.png)(images\Screenshot 2.png)
 
 ## API Reference
 
